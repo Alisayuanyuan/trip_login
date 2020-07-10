@@ -1,8 +1,4 @@
-# coding-=utf-8
-# @Time :   
-# @Author: 园园
-# @Email: 342217736@qq.com
-# @Software: PyCharm
+# coding = utf-8
 
 import requests
 url = 'http://47.98.200.110/api/Sign/SignIn'
