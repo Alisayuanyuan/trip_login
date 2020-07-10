@@ -19,4 +19,4 @@ data = {
 
 re = requests.post(url,headers=header,json=data)
 
-return re
+print(re)
